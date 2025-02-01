@@ -1,0 +1,13 @@
+{
+  "name": "seon-reverse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "got-scraping": "^4.0.8",
+    "imap-simple": "^5.1.0",
+    "luxon": "^3.5.0",
+    "mailparser": "^3.7.2"
+  }
+}
